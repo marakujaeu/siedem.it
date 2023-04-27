@@ -10,6 +10,7 @@ redirect_from:
   - /2013/11/08/dlaczego-system-64-bitowy-jest-bezpieczniejszy.html
   - /dlaczego-system-64-bitowy-jest-bezpieczniejszy.html
   - /adam/4-powody-dla-ktorych-64-bitowy-windows-jest-bezpieczniejszy-od-32-bitowego
+  - /adam/4-powody-dla-ktorych-64-bitowy-windows-jest-bezpieczniejszy-od-32-bitowego/
 ---
 
 **Jedną z najdziwniejszych rzeczy w temacie zabezpieczeń systemu [Windows](http://web.archive.org/web/20150514112826/http://siedem.it/tag/windows) jest to, że kilka z pozoru nieznaczących zmian w działaniu systemu może mieć znaczący wpływ na jego [bezpieczeństwo](http://web.archive.org/web/20150514112826/http://siedem.it/tag/bezpieczenstwo) i działanie złośliwego oprogramowania. Kto by przypuszczał, że 64-bitowy system sam w sobie utrudnia działanie złośliwego oprogramowania?**
