@@ -6,8 +6,6 @@ categories: [ Wiadomości ]
 tags: [ Hugging Face, HuggingChat, ChatGPT, OpenAI, GPT-3, GPT-2, NLP, AI ]
 featured: true
 ---
-Hugging Face uruchamia alternatywę dla ChatGPT
----
 Hugging Face, firma zajmująca się rozwojem i demokratyzacją sztucznej inteligencji poprzez otwarte źródła i otwartą naukę³, ogłosiła niedawno uruchomienie swojej własnej wersji ChatGPT, popularnego systemu do generowania konwersacji opartego na modelu GPT-3. Nowa aplikacja, nazwana HuggingChat, jest dostępna jako darmowy i otwarty projekt na platformie Hugging Face.
 
 ChatGPT to system do tworzenia naturalnych i płynnych dialogów z użytkownikami, wykorzystujący zaawansowany model językowy GPT-3 stworzony przez OpenAI. ChatGPT został zaprezentowany w 2022 roku jako eksperymentalna usługa chmurowa, która pozwala na interakcję z różnymi osobowościami i tematami rozmowy. ChatGPT zyskał dużą popularność i uznanie wśród użytkowników i developerów, ale był również krytykowany za niektóre problemy związane z bezpieczeństwem, etyką i jakością generowanych odpowiedzi.
