@@ -4,6 +4,7 @@ title: "Geoffrey Hinton ostrzega przed niebezpieczeństwami związanymi z rozwoj
 author: adam
 categories: [ Wiadomości ]
 tags: [ AI, Geoffrey Hinton, Sztuczna Inteligencja, AI, Generative AI ]
+image: https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 
 Współcześnie sztuczna inteligencja odgrywa znaczącą rolę w życiu ludzi, wpływając na wiele dziedzin, takich jak biznes, medycyna czy nauka. Jednakże rozwój tej technologii stawia również przed nami wiele pytań i wyzwań związanych z etyką, bezpieczeństwem oraz wpływem na rynek pracy i społeczeństwo. W tym artykule przyjrzymy się kilku kluczowym problemom i obawom związanym z rozwojem sztucznej inteligencji, w tym tym, co uważa na ten temat jeden z wiodących naukowców w tej dziedzinie - Geoffrey Hinton.
